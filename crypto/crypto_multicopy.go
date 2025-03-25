@@ -3,7 +3,7 @@ package osscrypto
 import (
 	"fmt"
 
-	"github.com/aliyun/aliyun-oss-go-sdk/oss"
+	"github.com/liuyongshuai/aliyun-oss-go-sdk"
 )
 
 // CopyFile with multi part mode, temporarily not supported

@@ -16,7 +16,7 @@ import (
 	"time"
 
 	kms "github.com/aliyun/alibaba-cloud-sdk-go/services/kms"
-	"github.com/aliyun/aliyun-oss-go-sdk/oss"
+	"github.com/liuyongshuai/aliyun-oss-go-sdk"
 	. "gopkg.in/check.v1"
 )
 

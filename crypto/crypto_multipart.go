@@ -6,7 +6,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/aliyun/aliyun-oss-go-sdk/oss"
+	"github.com/liuyongshuai/aliyun-oss-go-sdk"
 )
 
 // PartCryptoContext save encryption or decryption information
